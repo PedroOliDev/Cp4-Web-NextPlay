@@ -14,7 +14,7 @@ Plataforma web responsiva voltada à descoberta ágil de filmes e combate à fad
 ---
 
 ## 🔗 Links do Projeto
-* *Deploy na Vercel:* [https://seu-projeto.vercel.app](https://seu-projeto.vercel.app)
+* *Deploy na Vercel:* https://cp4-web-next-play.vercel.app
 * *Repositório no GitHub:* https://github.com/PedroOliDev/Cp4-Web-NextPlay.git
 
 ---
